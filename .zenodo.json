@@ -1,0 +1,34 @@
+{
+  "title": "Motion-First Geometry, Lorentz Ether vs. Special Relativity, Poincare's Fuchsian/Lorentz Group Theory, and Casimir/Wigner ISO(1,3) Classification",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-05-19",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.23629469",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "Poincare group",
+    "Wigner classification",
+    "Casimir operators",
+    "Pauli-Lubanski",
+    "special relativity",
+    "Lorentz group",
+    "relational mechanics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/poincare-wigner-motion-geometry",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Origin Provenance: 2026-05-19 (Google Drive Archive: 2026-07-07 14:21:41 CDT, ID 1P0tCYaDZEiF7riwApIqzfauMzk9vGGqQ). Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).",
+  "description": "<p>Four-part mathematical physics and Lie group treatise authored in May 2026: (I) Motion-First Geometry and Relational Shape Dynamics; (II) Empirical Equivalence and Ontological Divergence Between Lorentz Ether Theory (LET) and Einstein Special Relativity (SR); (III) Henri Poincar&eacute;'s Group-Theoretic Synthesis from Fuchsian Hyperbolic Automorphic Groups (<code>PSL(2,R) &cong; SO+(1,2)</code>) to the 1905/1906 Palermo Paper on the Lorentz Group <code>SO+(1,3)</code>; and (IV) Casimir Invariants (<code>C1 = P_mu P^mu</code>, <code>C2 = W_mu W^mu</code>) and Wigner's 1939 Unitary Irreducible Representation Classification of <code>ISO+(1,3)</code>.</p><p><strong>Origin Provenance:</strong> May 19, 2026 (Google Drive Archive: July 7, 2026, 2:21:41 PM CDT).</p><p><strong>Copyright &amp; License:</strong> Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (ORCID: <a href=\"https://orcid.org/0009-0006-7068-3718\">0009-0006-7068-3718</a>).</p>"
+}
